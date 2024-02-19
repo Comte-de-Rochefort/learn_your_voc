@@ -1,0 +1,130 @@
+assurance : insurance
+accident : accidental event
+acte de malveillance : malicious damage
+adhérent : subscriber
+adhésion : enrollment
+admissible : eligible
+affiliation : membership
+aide sociale : supplementary benefit
+allocation de chômage : unemployment benefit
+allocation de maternité : maternity benefit
+allocation forfaitaire : flat-rate benefit
+allocation logement : housing benefit
+allocation pour parent isolé : one-parent benefit
+allocations pour enfants : child benefit
+annulation : cancellation
+antérieur : previous, prior
+appel, recours : appeal
+arrêt de travail : sick leave
+assurabilité : insurability
+assurance de biens : property insurance
+assurance en cas de décès : death insurance
+assurance collective : group insurance
+assurance facultative : optional insurance
+assurance invalidité : disability insurance
+assurance maladie / santé : health insurance
+assurance responsabilité civile : public liability insurance
+assurance risque pays : country risk insurance
+assurance tous risques : all risks insurance
+assurance vie : life insurance
+assurance vol et incendie : fire and theft insurance
+assurance voyage : travel insurance
+assuré : insured
+s’assurer : to buy an insurance
+assurer : to insure
+assureur : insurer
+avoir droit : to qualify
+bénéfice : benefit
+bénéficiaire : beneficiary
+blessure : injury
+brochure : leaflet
+caisse d’assurance maladie : health insurance fund
+causer un dommage : to damage
+caution : deposit
+chômeur : unemployed
+ci-dessous, ci-après : below
+ci-joint : attached
+compagnon, compagne : partner
+compagnie d’assurance : insurance company
+complémentaire : additional
+condition requise : requirement
+contrat bilatéral : bilateral contract
+coordonnées bancaires : bank details
+cotisations : contributions
+couverture médicale : health coverage
+crédit d’impôt : tax credit
+date d’affiliation : date of entry
+date d’échéance : due date
+date de naissance : date of birth
+date de prise d’effet : effective date
+déclaration : statement
+délai de carence : elimination period
+demande : request
+demander, présenter une demande : to apply
+dommage : damage
+dommage corporel : bodily injury
+dommage matériel : property damage
+dossier : file
+durée du contrat : policy term
+échéance : due date
+émettre, délivrer : to issue 
+emploi à durée indéterminée : permanent employment
+en application de, conformément à : under the terms of
+en double exemplaire : in duplicate
+engagement : commitment
+établissement de soins : health facility
+état-civil : marital status
+expertise : survey
+exonération : exemption
+facture : invoice
+formulaire, attestation : certificate
+garantie : coverage, warranty
+impayé : overdue
+imposable : taxable
+inaptitude / incapacité au travail : inability / incapacity to work
+indemnisation : indemnification
+indemnité d’accident du travail : injury benefit
+indemnité forfaitaire : fixed allowance
+indemnité journalière : daily benefit
+indemnités maladie : sickness benefit
+inscription, affiliation : registration
+s’inscrire : to enlist, to register
+invalide, handicapé : disabled
+invalidité : disability
+justificatif : documentary evidence
+majoration : increase
+maladie professionnelle : occupational disease
+malus : penalty
+montant : amount
+non-responsabilité : non-liability
+octroyer, accorder : to award, to grant
+part à la charge du patient : co-payment
+pension alimentaire : child support
+pension d’invalidité : invalidity benefit
+pension de retraite : retirement benefit
+personne à charge : dependant
+prestation : benefit
+prime d’assurance : insurance premium
+prime de Noël : Christmas bonus
+protection sociale : social welfare
+preuves : evidence
+rappeler, mentionner : to quote
+réclamer : to claim
+refuser une prestation : to disallow benefit
+rejeter : to reject
+relevé des cotisations : contribution record
+remboursement : refund
+rente : annuity
+retraite : retirement
+revenu minimum : minimum wage
+responsabilité civile : third party liability
+retrouver trace : to trace
+réunir, remplir les conditions : to meet the conditions
+risque réel : genuine risk
+situation : circumstances
+suppression d’une prestation : withdrawal / removal of a benefit
+séjour : stay
+séparé : living apart
+stipuler : to state / to provide
+transmettre : to forward
+trop-perçu : overpayment
